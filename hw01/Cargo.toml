@@ -1,6 +1,6 @@
 [package]
 name = "hw01"
-version = "0.1.0"
-authors = ["vagrant"]
+version = "0.2.0"
+authors = ["Forest Oden"]
 
 [dependencies]
